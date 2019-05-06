@@ -10,7 +10,7 @@
 
 - www.devicespecifications.com
 - www.mobilephonesspecs.com/
-- phonedb.net/
+- http://phonedb.net/
 - www.3533.com
 
 # Possible target website
