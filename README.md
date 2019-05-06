@@ -6,13 +6,17 @@
 - Scrapy 1.6.0
 - The specific installation process please Google
 
-## Destination URL
+## Target Website
 
 - www.devicespecifications.com
 - www.mobilephonesspecs.com/
-- www.whatismyphone.com/
-- http://phonedb.net/
+- phonedb.net/
 - www.3533.com
+
+# Possible target website
+
+- www.whatismyphone.com/
+- www.gsmarena.com
 
 ## Important Reminder
 
