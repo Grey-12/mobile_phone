@@ -47,3 +47,9 @@ class MyPhoneItem(scrapy.Item):
     hardware_vendor = scrapy.Field()
     OEM = scrapy.Field()
     hardware_name = scrapy.Field()
+
+
+class WhatHifiItem(scrapy.Item):
+    brand = scrapy.Field()
+    title = scrapy.Field()
+

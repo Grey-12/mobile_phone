@@ -17,6 +17,7 @@
 
 - www.whatismyphone.com/
 - www.gsmarena.com
+- www.china-prices.com
 
 ## Important Reminder
 
